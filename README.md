@@ -35,7 +35,7 @@ I am Rasya Aditia Gunawan, I am 16 years old, I am someone who will become a dev
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Rasya' GitHub stats](https://github-readme-stats.vercel.app/api?username=rasya030607&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=rasya030607&theme=gruvbox&border_radius=4.5) -->
 
