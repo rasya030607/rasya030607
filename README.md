@@ -1,5 +1,5 @@
 ## 💫 About Me
-I am Rasya Aditia Gunawan, I am 16 years old, I am someone who will become a developer someday.
+I am Rasya Aditia Gunawan From Indonesia, I am 16 years old, I am someone who will become a developer someday.
 
   <p align="left">
         <a href="https://www.youtube.com/@rasya0346?sub_confirmation=1">
