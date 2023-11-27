@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##💫 About Me
+## 💫 About Me
 I am Rasya Aditia Gunawan, I am 16 years old, I am someone who will become a developer someday.
 
 ## 🌐 Socials
