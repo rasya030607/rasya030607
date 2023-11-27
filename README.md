@@ -2,7 +2,7 @@
 I am Rasya Aditia Gunawan, I am 16 years old, I am someone who will become a developer someday.
 
   <p align="left">
-        <a href="https://www.youtube.com/rasya0346?sub_confirmation=1">
+        <a href="https://www.youtube.com/@rasya0346?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjiZ9KNVyF5P-b9bCvAei_A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="[https://www.youtube.com/@rasya0346]">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjiZ9KNVyF5P-b9bCvAei_A?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
